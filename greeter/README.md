@@ -1,2 +1,2 @@
 # README.html
-![](./README.html)
+![](README.html)
